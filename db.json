@@ -1,9 +1,30 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+      
+  {
+    "id": 1,
+        "RegionName": "Передкарпатська нафтогазоносна область",
+        "UkraineRegionName": "Закарпатська",
+        "NameInput": "Солятинське-Г",
+        "Location": "1 км на Пн вiд м. Солятин",
+        "Type": "Нафто-газове",
+        "OilSize": "Дрібне",
+        "GasSize": "Дрібне",
+        "OpeningYear": "1982",
+        "ComissioningYear": "1988"
+  },
+  { 
+    "id": 2,
+        "RegionName": "Передкарпатська нафтогазоносна область",
+        "UkraineRegionName": "Чернівецька",
+        "Name": "Борисівське-НГК",
+        "Location": "100 км на ПдЗ вiд м. Дpобот",
+        "Type": "Нафто-газоконденсатне",
+        "OilSize": "Велике",
+        "GasSize": "Дрібне",
+        "OpeningYear": "1954",
+        "ComissioningYear": "1954"
+  }
   ],
   "profile": {
     "name": "typicode"
